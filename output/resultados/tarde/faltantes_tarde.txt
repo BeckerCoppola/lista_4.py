@@ -1,6 +1,6 @@
 beca nova: Faltou
-ovelha becker: Faltou
-Pietro Michell: Faltou
-Tatiane Krein: Faltou
-Benicio Becker: Faltou
-Angelo Reis: Faltou
+ovelha : Faltou
+Pietro : Faltou
+Tatiane : Faltou
+Benicio : Faltou
+Angelo : Faltou
